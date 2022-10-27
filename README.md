@@ -44,5 +44,5 @@ Se ilustra cada uno de los pasos a seguir en el proceso de ETL hasta la generaci
 En caso de que se tengan que actualziar alguna de las tablas, se realizara un preprocesamiento del archivo para poder normalizarlo, lo que significa que se realizan
 los pasos establecidos en el pipeline, con la diferencia de que solo se vera afectada la tabla que requiera ser actualizada.
 
-Enlace del video donde se explican los pasos realizados:
+Enlace del video donde se explican los pasos realizados: https://youtu.be/NEa3mVXopTw
 
