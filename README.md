@@ -34,6 +34,11 @@ Se ilustra cada uno de los pasos a seguir en el proceso de ETL hasta la generaci
 - Notepad++
 - Lenguales utilizados: Python, SQL
 
+## MODELO DER
+
+![modelo_DER](https://user-images.githubusercontent.com/103619850/198374029-0863f0ee-f94a-49e6-bdb9-168e07eb9eda.png)
+
+
 ## CARGA INCREMENTAL
 
 En caso de que se tengan que actualziar alguna de las tablas, se realizara un preprocesamiento del archivo para poder normalizarlo, lo que significa que se realizan
