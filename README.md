@@ -45,4 +45,5 @@ En caso de que se tengan que actualziar alguna de las tablas, se realizara un pr
 los pasos establecidos en el pipeline, con la diferencia de que solo se vera afectada la tabla que requiera ser actualizada.
 
 Enlace del video donde se explican los pasos realizados: https://youtu.be/NEa3mVXopTw
+Enlace de los datos: https://drive.google.com/drive/folders/1Rsq-HHomPtQwy7RIWQ574wKcf56LiGq1?usp=sharing
 
